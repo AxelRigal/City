@@ -1,0 +1,15 @@
+G:\Repos Csharp\City\City\bin\Debug\netcoreapp3.1\City.exe
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.csprojAssemblyReference.cache
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfoInputs.cache
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfo.cs
+G:\Repos Csharp\City\City\bin\Debug\netcoreapp3.1\City.deps.json
+G:\Repos Csharp\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.json
+G:\Repos Csharp\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.dev.json
+G:\Repos Csharp\City\City\bin\Debug\netcoreapp3.1\City.dll
+G:\Repos Csharp\City\City\bin\Debug\netcoreapp3.1\City.pdb
+G:\Repos Csharp\City\City\bin\Debug\netcoreapp3.1\GAF.Core.20.dll
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.csproj.CoreCompileInputs.cache
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.csproj.CopyComplete
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.dll
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.pdb
+G:\Repos Csharp\City\City\obj\Debug\netcoreapp3.1\City.genruntimeconfig.cache
